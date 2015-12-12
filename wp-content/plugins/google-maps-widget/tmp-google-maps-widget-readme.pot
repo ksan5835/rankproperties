@@ -1,0 +1,1020 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Google Maps Widget"
+msgstr ""
+
+#. Short description.
+msgid "Displays a single-image super-fast loading Google map in a widget. A larger map with all the usual features is available on click in a lightbox."
+msgstr ""
+
+#. Screenshot description.
+msgid "Small map is shown as a widget and since it's just one image it loads super-fast"
+msgstr ""
+
+#. Screenshot description.
+msgid "Larger map with all features is available in the lightbox"
+msgstr ""
+
+#. Screenshot description.
+msgid "Widget options - thumbnail map"
+msgstr ""
+
+#. Screenshot description.
+msgid "Widget options - lightbox map"
+msgstr ""
+
+#. Screenshot description.
+msgid "Widget options - shortcode"
+msgstr ""
+
+#. Screenshot description.
+msgid "Widget options - info &amp; support"
+msgstr ""
+
+#. Found in description list item.
+msgid "title"
+msgstr ""
+
+#. Found in description list item.
+msgid "address"
+msgstr ""
+
+#. Found in description list item.
+msgid "map size - width &amp; height"
+msgstr ""
+
+#. Found in description list item.
+msgid "map type - road, satellite, map or hybrid"
+msgstr ""
+
+#. Found in description list item.
+msgid "pin color"
+msgstr ""
+
+#. Found in description list item.
+msgid "pin size"
+msgstr ""
+
+#. Found in description list item.
+msgid "custom pin icon - any image can be used"
+msgstr ""
+
+#. Found in description list item.
+msgid "zoom level"
+msgstr ""
+
+#. Found in description list item.
+msgid "link type - lightbox, custom URL or disable link"
+msgstr ""
+
+#. Found in description list item.
+msgid "map color scheme - default, refreshed, apple, gray, paper"
+msgstr ""
+
+#. Found in description list item.
+msgid "text above map"
+msgstr ""
+
+#. Found in description list item.
+msgid "text below map"
+msgstr ""
+
+#. Found in description list item.
+msgid "map size - width &amp; height (auto-adjusted on smaller screens)"
+msgstr ""
+
+#. Found in description list item.
+msgid "skin - light, dark, blue, rounded"
+msgstr ""
+
+#. Found in description list item.
+msgid "show/hide address bubble"
+msgstr ""
+
+#. Found in description list item.
+msgid "show/hide map title"
+msgstr ""
+
+#. Found in description list item.
+msgid "header text"
+msgstr ""
+
+#. Found in description list item.
+msgid "footer text"
+msgstr ""
+
+#. Found in description list item.
+msgid "by using the <em>[gmw id=\"#\"]</em> shortcode you can display the map in any page, post, or custom post type"
+msgstr ""
+
+#. Found in description list item.
+msgid "voted on the <a href=\"http://themesplugins.com/Plugin-detail/google-maps-widget-google-map-free-plugin-for-wordpress/\" title=\"Top 100 WordPressian plugin\">Top 100 List</a> by WordPressian"
+msgstr ""
+
+#. Found in description list item.
+msgid "made it on the <a href=\"http://tidyrepo.com/google-maps-widget/\">Tidy Repo</a> list"
+msgstr ""
+
+#. Found in description list item.
+msgid "reviewed 5/5 by <a href=\"http://websmush.com/google-maps-widget-plugin-review/\">Web Smush</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "one of 3 best map plugins by <a href=\"http://torquemag.io/the-3-best-map-plugins-for-wordpress/\">The Torque Mag</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "\"an easier way to add Google maps to your site\" says <a href=\"http://www.wpbeginner.com/wp-tutorials/how-to-add-google-maps-in-wordpress/\">WP Beginner</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://designscrazed.org/wordpress-google-map-plugins/\">Design Crazed</a> puts in on the top 20 Google maps list"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.inkthemes.com/easily-integrate-google-map-in-your-wordpress-themes-widget-area/09/\">InkThemes</a> shows how easy it is to use GMW"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.indexwp.com/google-maps-widget/\">IndexWP</a> calls it a \"handy map plugin\""
+msgstr ""
+
+#. Found in description list item.
+msgid "English - original :)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Swedish - Sofia Asklund"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish - Jesus Garica"
+msgstr ""
+
+#. Found in description list item.
+msgid "Croatian - Gordan from <a href=\"http://www.webfactoryltd.com/\">Web factory Ltd</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "German - Karimba"
+msgstr ""
+
+#. Found in description list item.
+msgid "French - Karimba"
+msgstr ""
+
+#. Found in description list item.
+msgid "Chinese simplified  - Wyeoh"
+msgstr ""
+
+#. Found in description list item.
+msgid "Chinese traditional - Wyeoh"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dutch - Arno"
+msgstr ""
+
+#. Found in description list item.
+msgid "Ukrainian - Victor Shutovskiy"
+msgstr ""
+
+#. Found in description list item.
+msgid "Serbian - Ogi Djuraskovic from <a href=\"http://firstsiteguide.com/\">FirstSiteGuide</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian - Ivanka from <a href=\"http://www.coupofy.com/\">Coupofy</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Check out some examples on the <a href=\"http://www.googlemapswidget.com/\">official plugin site</a>, view the <a href=\"http://www.youtube.com/watch?v=y1siX9ha7Pw\">Google Maps Widget video</a> or give us a shout on Twitter <a href=\"http://twitter.com/WebFactoryLtd\">@WebFactoryLtd</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "http://www.youtube.com/watch?v=y1siX9ha7Pw&amp;hd=1"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>General widget options</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Thumbnail map options</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Lightbox map options</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Shortcode</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you need a Google Maps shortcode plugin you might be interested in purchasing our premium <a title=\"5sec Google Maps\" href=\"http://5sec-google-maps-pro.webfactoryltd.com/\">5sec Google Maps PRO</a> plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>What others say about the plugin</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Translators (thank you!)</strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Open WP admin - Plugins - Add New"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enter \"Google Maps Widget\" under search and hit Enter"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Plugin will show up as the first on the list, click \"Install Now\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unzip it and upload to wp-content/plugin/"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Open WP admin - Plugins and click \"Activate\" next to the plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Configure the plugin under Appearance - Widgets"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Follow the usual routine;"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Or if needed, upload manually;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/12/02"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "enhancements in PHP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/11/18"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed a big bug in JS (widget admin UI init)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/10/26"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor JS tweaks and bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/10/12"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed a nasty bug with shortcode rendering (thanks Hey You!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "JS and CSS fixes for widget UI in the theme customizer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/10/05"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "we'll be soon removing all PO files from the plugin since the strings were merged into the official WP translate project"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/08/31"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added data validation on input fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor CSS tweaks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/07/27"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated PHP4 style class constructor to PHP5 one"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "lowered cron for tracking to once every 14 days"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "did some prep work for the upcoming 4.3 version of WP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/06/15"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed a bug on notice dismiss action"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Russian translation - thanks Ivanka!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/05/25"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "few small bugs fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "admin JS completely rebuilt"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed PO file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "we broke 90,000 installations ;)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/04/27"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP v4.2 compatibility checked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "remove_query_arg() security issue fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "we broke 500,000 downloads ;)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/03/02"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "JS rewrites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/02/23"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "a few visual enhancements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "new screenshots"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "shortcode name availability is checked before registering it"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "visual builder compatibility fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/02/16"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added shortcode support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/02/09"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed a <em>plugin_deactivate</em> bug nobody noticed for 2 years :("
+msgstr ""
+
+#. Found in changelog list item.
+msgid "all JS texts are now loaded via wp_localize_script()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/02/02"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "auto-adjust map size on smaller screens - thanks bruzm!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "marked each widget with core version for future updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/01/26"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "language file updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "preparing for JS rewrite"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/01/19"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "code rewriting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015/01/13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "somehow one JS file got renamed :("
+msgstr ""
+
+#. Found in changelog list item.
+msgid "lots of rewrites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "additional features can now be activated by subscribing to our newsletter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/12/19"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor WP v4.1 updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/12/03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "due to someone being a huge cun* we can no longer offer discounts for our Envato products in GMW"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "so no changes to the plugin, just some messages edited"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/11/12"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "preparations for admin JS rewrite"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/10/20"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Serbian translation; thanks Ogi!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/10/12"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated POT file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated Croatian translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/09/22"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added custom pin image option for thumbnail map - thanks Rudloff!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/09/08"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor updates for WordPress v4.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/07/29"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "lightbox skins are back; light and dark for now, more coming soon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated lightbox jS"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/07/10"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed a small bug on thumbnail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "finished up a todo"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/05/06"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "finished up a few todos"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/04/17"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "update for WordPress v3.9, widget edit GUI now works in theme customizer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "if you run into any issues please report them in the support forums"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/04/07"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed shortcode handling in map's header &amp; footer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Ukrainian translation - thank you Victor Shutovskiy!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/03/25"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "new Spanish translation - thank you Jesus!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "still working on those lightbox skins, sorry :("
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/03/05"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "working on those lightbox skins :)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/03/04"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "switched to <a href=\"http://www.jacklmoore.com/colorbox/\">Colorbox</a> lightbox script"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "lightbox skin is still temporarily unavailable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/02/10"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "due to licensing issues switched to FancyBox v1.3.4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "lightbox skin is temporarily unavailable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor bug fix related to activate/upgrade hook calls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/02/05"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added optional plugin usage tracking (<a href=\"http://www.googlemapswidget.com/plugin-tracking-info/\">detailed info</a>)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/02/03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP v3.8.1 compatibility check"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/01/16"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Dutch translation; thank you Arno!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014/01/03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "preparations for opt-in plugin usage tracking"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Spanish translation updated; thanks Jesus!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/12/17"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP v3.8 update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "language files update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/11/25"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added option for thumbnail map to link to a custom URL which disables the lightbox; you can link to a lightbox, a custom link or remove the link all together"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/11/18"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added option for thumbnail map to use the new look/color scheme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/11/04"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Chinese traditional translation; thanks Wyeoh"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/10/28"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP 3.7 compatibility check"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Chinese simplified translation; thanks Wyeoh"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/10/21"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added French translation; thanks Karimba"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/10/14"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added German translation; thanks Karimba"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "we reached 100k downloads ;)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/10/07"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed a few strict standards errors; thanks Jay!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/10/03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Croatian translation; thank you Gordan"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/09/28"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor translation fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Spanish translation; thank you Jesus!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/09/24"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "map language is autodetected based on user's browser language (HTTP_ACCEPT_LANGUAGE header)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added Swedish translation; thank you Sofia!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "German and Croatian translations will be up next"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/09/17"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "few more preparations for translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Swedish translation coming in a few days"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/09/05"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "prepared everything for translation, POT file is available and all strings are wrapped in __()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "protocols should now match http/https for both thumbnail and ligtbox map"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<a href=\"http://www.googlemapswidget.com/\">www.googlemapswidget.com</a> is up and running"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/08/05"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated JS for WP v3.6"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/04/06"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed zoom bug in lightbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013/04/05"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added 2 new options - text above and below thumbnail map"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated fancyBox JS to the latest version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor code improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/12/12"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "small WP 3.5 compatibility fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/12/03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "removed screenshots from plugin package"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/11/28"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed non UTF-8 address bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/11/19"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed bug to use google.com instead of google.co.uk"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/09/28"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added 4 skins for lightbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/09/14"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fix for bad themes which don't respect proper sidebar markup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/09/04"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "lightbox script changed from jQuery UI Dialog to <a href=\"http://fancyapps.com/fancybox/\">fancyBox2</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added \"show map title on lightbox\" option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "significant speed improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "preparations for lightbox skins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/08/31"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed small JS related GUI bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/08/28"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Complete GUI rewrite"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added header text option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added address bubble visibility option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed thumbnail map scaling bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed lightbox map size bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/08/09"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added pin size for thumbnail map"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/08/07"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added pin color for thumbnail map"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few minor bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/08/06"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012/08/03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq header.
+msgid "Who is this plugin for?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Thumbnail map works but lightbox won't open on click"
+msgstr ""
+
+#. Found in faq header.
+msgid "It's not working!!! Arrrrrrrrr"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For just about anyone who needs a map on their site in 5 seconds."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You most probably have Fancybox JS and CSS files included twice; once by the theme and second time by GMW plugin. Remove one instance of files. If that's not the case then you have a fatal JS error thats preventing execution of other JS code. Hit F12 in Firefox or Chrome and have a look at the debug console. If there are any red lines - it's a fatal error. Open a new thread in the support forums but please bear in mind that support is community based and we do this in our spare time."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"A more detailed help is coming soon. Till then check 2 things: does your theme have <em>wp_footer()</em> function call in the footer and if there are any jQuery errors on the site.\n"
+"If you can't figure it out open a thread in the support forums."
+msgstr ""
