@@ -84,10 +84,9 @@
             				<?php
                             wp_nav_menu(array(
                                 'theme_location' => 'main-menu',
-                                'container' => 'div',
+                                'container' => false,
 								'container_class' => '',
-                                'menu_class' => 'header-nav clearfix',
-								'menu_id'         => 'cssmenu'
+                                'menu_class' => 'header-nav clearfix'								
                             ));
                             ?>
             			    </nav>

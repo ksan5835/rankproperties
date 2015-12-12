@@ -13,8 +13,22 @@ nav.main-menu ul .current_page_item > a {
     background: #ff0000 none repeat scroll 0 0 !;
     color: #fff;
 }
+.main-content {
+    padding:10px 10px 10px 10px !important;
+}
+.nav > li > a {
+    display: block;
+    padding: 5px !important;
+    position: relative;
+}
 
-
+#colophon .widget .widget-title {
+    font-size: 20px;
+    padding-bottom: 5px !important;
+}
+.site-footer-inner {
+    padding: 10px 0 !important;
+}
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 #cssmenu,
 #cssmenu ul,
@@ -203,3 +217,4 @@ nav.main-menu ul .current_page_item > a {
 #cssmenu ul ul li.has-sub:hover > a::after {
   border-color: #ffffff;
 }
+.rpservices h2 { font-size:15px !important; font-weight:bold;}
