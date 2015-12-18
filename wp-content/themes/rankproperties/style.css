@@ -13,8 +13,20 @@ nav.main-menu ul .current_page_item > a {
     background: #ff0000 none repeat scroll 0 0 !;
     color: #fff;
 }
+.headerbanner { width:100%; }
 .main-content {
     padding:10px 10px 10px 10px !important;
+}
+.header-top {
+    background: #f3f3f3 none repeat scroll 0 0 !important;
+    border-top: 4px solid #f3f3f3 !important;
+    color: #59ba47 !important;
+    font-size: 12px;
+    min-height: 35px;
+    padding: 8px 0;
+}
+.header-top a {
+    color: #59ba47 !important;
 }
 .nav > li > a {
     display: block;
