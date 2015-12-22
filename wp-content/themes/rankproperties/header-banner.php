@@ -6,7 +6,7 @@
 <?php $enable_home_slider = of_get_option('home_page_slider'); ?>
 <?php if(($enable_home_slider == 1) && is_front_page()): ?>
 <?php $home_slider_array = ascent_home_slider(); ?>
-    <div id="home-slider">
+    <div id="home-slider" class="container">
 	<div class="main-owl-carousel">
 	<?php $enable_slider_overaly = (of_get_option('slider_overlay_bg')) ? 'bg-overlay' : ' default-bg'; ?>
 	<?php foreach($home_slider_array as $home_slider_item => $home_slider_fields): ?>
@@ -32,7 +32,7 @@
 <?php $featuredimageurl = wp_get_attachment_url( get_post_thumbnail_id($post->ID, 'thumbnail') ); ?>
 
 
-    <div id="banner">
+    <div id="banner" class="container">
     <?php if($featuredimageurl): ?>
 	<img src="<?php echo$featuredimageurl; ?>" alt="<?php bloginfo( 'name' ); ?>-Banner" class="headerbanner">
     <?php elseif(of_get_option('default_banner_image')): ?>
