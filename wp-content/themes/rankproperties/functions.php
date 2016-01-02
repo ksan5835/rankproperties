@@ -30,7 +30,7 @@ add_filter( 'wp_nav_menu_items', 'add_login_logout_menu', 20, 5);
 			 else
 				 $link = '<li id="login_logout_menu-link" class="menu-item menu-type-link"><a href="' .esc_url( home_url( '/' )). 'my-search' . '" title="My Search">' . __( 'My Search' ) . '</a></li>';           
 			
-				 $link .= '<li id="login_logout_menu-link" class="menu-item menu-type-link"><a href="'.wp_logout_url( home_url() ).'">Logout</a></li>';
+				 $link .= '<li id="login_logout_menu-link" class="menu-item menu-type-link"><a href="'.wp_logout_url( esc_url( home_url( '/' )) ).'">Logout</a></li>';
 		}
 		 else  {
 			 if($ex_link[0] == 'signup')
