@@ -536,7 +536,7 @@ a#es_content .es_more_props_btn,
 #es_request_form .es_learn_aboot_prop input[type="text"]:focus, #es_request_form .es_learn_aboot_prop textarea:focus{ border:1px solid #1d1d1d; }
 
 
-#es_search #search_vertical{ background:#f0f0f0; overflow:hidden; padding:20px 20px 57px; position:relative; margin-bottom:30px; }
+#es_search #search_vertical{ background:#f0f0f0; /*overflow:hidden;*/ padding:20px 20px 57px; position:relative; margin-bottom:30px; }
 
 #es_search #search_vertical h3{ color:#1d1d1d; }
 
