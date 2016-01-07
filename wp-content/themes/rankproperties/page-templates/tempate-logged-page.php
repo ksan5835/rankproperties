@@ -38,5 +38,5 @@
 </div>
 <?php get_footer(); ?>
 <?php else:
-wp_die('Sorry, you must first <a href="/wp-login.php">log in</a> to view this page. You can <a href="/wp-login.php?action=register">register free here</a>.');
+wp_die('Sorry, you must first <a href="' .esc_url( home_url( '/' )). 'signup' . '">log in</a> to view this page. You can <a href="' .esc_url( home_url( '/' )). 'signup' . '">register free here</a>.');
 endif; ?>
