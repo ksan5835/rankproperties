@@ -10,6 +10,7 @@
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width">
     <title><?php wp_title( '|', true, 'right' ); ?></title>
+	<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="shortcut icon" href="<?php echo of_get_option('favicon'); ?>"/>
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
